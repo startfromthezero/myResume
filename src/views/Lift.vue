@@ -1,0 +1,3 @@
+<template>
+    Lift
+</template>

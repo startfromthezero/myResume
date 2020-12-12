@@ -24,7 +24,7 @@
     <el-aside width="20%"></el-aside>
   </el-container>
 </template>
-0
+
 <script lang="ts">
   import { defineComponent, ref } from "vue";
   import { useRouter, useRoute } from 'vue-router';
